@@ -1,0 +1,76 @@
+symbol,img_symbol,nama,harga,perubahan,persen_perubahan,nilai_pasar,volume_in_currency_kumulatif,volume_in_currency_24hr,Total_volume_all_currencies,circulating_supply
+BTC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1.png,Bitcoin USD,"43,097.55",+265.04,+0.62%,845.577B,17.658B,17.658B,17.658B,19.62M
+ETH-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png,Ethereum USD,"2,338.52",+30.98,+1.34%,281.052B,8.451B,8.451B,8.451B,120.184M
+USDT-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/825.png,Tether USDt USD,0.999139,+0.000082,+0.01%,96.154B,30.417B,30.417B,30.417B,96.236B
+BNB-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png,BNB USD,302.24,+0.93,+0.31%,45.198B,683.48M,683.48M,683.48M,149.546M
+SOL-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png,Solana USD,95.08,-1.55,-1.60%,41.475B,1.63B,1.63B,1.63B,436.207M
+XRP-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/52.png,XRP USD,0.504014,-0.000782,-0.15%,27.437B,837.42M,837.42M,837.42M,54.436B
+USDC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png,USD Coin USD,1.0002,+0.0002,+0.02%,27.025B,4.276B,4.276B,4.276B,27.019B
+STETH-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png,Lido Staked ETH USD,"2,340.69",+32.05,+1.39%,22.215B,11.862M,11.862M,11.862M,9.491M
+ADA-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png,Cardano USD,0.495125,-0.003282,-0.66%,17.544B,278.195M,278.195M,278.195M,35.433B
+AVAX-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png,Avalanche USD,34.12,-0.79,-2.27%,12.536B,380.36M,380.36M,380.36M,367.438M
+DOGE-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/74.png,Dogecoin USD,0.078422,-0.000571,-0.72%,11.211B,200.466M,200.466M,200.466M,142.962B
+LINK-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png,Chainlink USD,18.69,-0.67,-3.44%,10.972B,698.325M,698.325M,698.325M,587.1M
+TRX-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png,TRON USD,0.121188,+0.002691,+2.27%,10.677B,346.078M,346.078M,346.078M,88.103B
+WTRX-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/18579.png,Wrapped TRON USD,0.120705,+0.001843,+1.55%,10.635B,2.381M,2.381M,2.381M,88.105B
+DOT-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png,Polkadot USD,6.7590,-0.0852,-1.24%,9.015B,147.545M,147.545M,147.545M,1.334B
+MATIC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png,Polygon USD,0.798188,+0.013054,+1.66%,7.671B,216.009M,216.009M,216.009M,9.611B
+TON11419-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png,Toncoin USD,2.0567,-0.0012,-0.06%,7.112B,20.235M,20.235M,20.235M,3.458B
+WBTC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png,Wrapped Bitcoin USD,"42,999.96",+156.39,+0.37%,6.79B,101.689M,101.689M,101.689M,"157,913"
+ICP-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png,Internet Computer USD,12.18,-0.29,-2.35%,5.575B,119.546M,119.546M,119.546M,457.698M
+DAI-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png,Dai USD,0.999964,+0.000219,+0.02%,5.348B,130.548M,130.548M,130.548M,5.348B
+SHIB-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png,Shiba Inu USD,0.00000890,-0.00000000,-0.03%,5.246B,72.341M,72.341M,72.341M,589.29T
+LTC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2.png,Litecoin USD,67.98,+0.35,+0.52%,5.042B,203.729M,203.729M,203.729M,74.176M
+BCH-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png,Bitcoin Cash USD,235.46,+0.08,+0.03%,4.623B,155.774M,155.774M,155.774M,19.634M
+LEO-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png,UNUS SED LEO USD,4.0555,-0.0159,-0.39%,3.762B,"753,138","753,138","753,138",927.664M
+UNI7083-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png,Uniswap USD,6.2040,+0.1912,+3.18%,3.711B,65.324M,65.324M,65.324M,598.187M
+ETC-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png,Ethereum Classic USD,24.61,-0.07,-0.28%,3.578B,189.533M,189.533M,189.533M,145.417M
+ATOM-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png,Cosmos USD,9.1807,+0.1144,+1.26%,3.54B,87.91M,87.91M,87.91M,385.612M
+TAO22974-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png,Bittensor USD,495.96,+57.14,+13.02%,3.069B,33.862M,33.862M,33.862M,6.189M
+OP-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png,Optimism USD,3.2048,+0.1206,+3.91%,3.068B,302.918M,302.918M,302.918M,957.379M
+XLM-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/512.png,Stellar USD,0.108124,-0.000396,-0.37%,3.068B,59.665M,59.665M,59.665M,28.377B
+IMX10603-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png,Immutable USD,2.2262,-0.0107,-0.48%,3.018B,101.505M,101.505M,101.505M,1.355B
+APT21794-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png,Aptos USD,8.6220,-0.1473,-1.68%,2.92B,94.096M,94.096M,94.096M,338.723M
+OKB-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png,OKB USD,48.18,-0.42,-0.86%,2.891B,3.717M,3.717M,3.717M,60M
+NEAR-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png,NEAR Protocol USD,2.7269,-0.0398,-1.44%,2.815B,97.591M,97.591M,97.591M,1.032B
+TIA22861-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png,Celestia USD,17.31,-0.41,-2.31%,2.813B,126.322M,126.322M,126.322M,162.523M
+INJ-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png,Injective USD,31.59,-0.93,-2.87%,2.793B,109.904M,109.904M,109.904M,88.392M
+FDUSD-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png,First Digital USD USD,0.999437,+0.000118,+0.01%,2.562B,4.496B,4.496B,4.496B,2.563B
+FIL-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png,Filecoin USD,5.0139,+0.0415,+0.84%,2.535B,82.946M,82.946M,82.946M,505.627M
+WHBAR-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/24399.png,Wrapped HBAR USD,0.073389,+0.003441,+4.92%,2.471B,"755,655","755,655","755,655",33.665B
+LDO-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png,Lido DAO USD,2.7566,-0.0033,-0.12%,2.456B,72.181M,72.181M,72.181M,890.924M
+HBAR-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png,Hedera USD,0.073049,+0.003295,+4.72%,2.459B,151.388M,151.388M,151.388M,33.665B
+ARB11841-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png,Arbitrum USD,1.8303,+0.0695,+3.95%,2.334B,419.717M,419.717M,419.717M,1.275B
+WEOS-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/24913.png,Wrapped EOS USD,2.0991,0.0000,0.00%,2.332B,5,5,5,1.111B
+BTCB-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/4023.png,Bitcoin BEP2 USD,"43,097.42",+215.08,+0.50%,2.325B,436.693M,436.693M,436.693M,"53,957"
+KAS-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png,Kaspa USD,0.100477,+0.000433,+0.43%,2.27B,16.542M,16.542M,16.542M,22.59B
+STX4847-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png,Stacks USD,1.4788,-0.0070,-0.47%,2.127B,34.751M,34.751M,34.751M,1.438B
+CRO-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png,Cronos USD,0.081688,+0.000378,+0.46%,2.064B,6.638M,6.638M,6.638M,25.263B
+VET-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png,VeChain USD,0.028183,+0.000318,+1.14%,2.049B,26.387M,26.387M,26.387M,72.715B
+XMR-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/328.png,Monero USD,109.16,-54.83,-33.43%,2.008B,178.667M,178.667M,178.667M,18.394M
+WBETH-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/24760.png,Wrapped Beacon ETH USD,"2,411.29",+35.32,+1.49%,1.894B,2.69M,2.69M,2.69M,"785,595"
+MNT27075-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png,Mantle USD,0.589416,+0.000340,+0.06%,1.867B,61.133M,61.133M,61.133M,3.167B
+SUI20947-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png,Sui USD,1.5395,-0.0545,-3.42%,1.795B,465.236M,465.236M,465.236M,1.166B
+MKR-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png,Maker USD,"1,935.11",-38.82,-1.97%,1.786B,42.463M,42.463M,42.463M,"922,862"
+RNDR-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png,Render USD,4.3811,-0.1025,-2.29%,1.648B,92.306M,92.306M,92.306M,376.146M
+RUNE-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png,THORChain USD,4.4785,+0.0324,+0.73%,1.521B,126.291M,126.291M,126.291M,339.72M
+TUSD-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png,TrueUSD USD,0.983833,-0.000480,-0.05%,1.464B,70.143M,70.143M,70.143M,1.488B
+GRT6719-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png,The Graph USD,0.155724,+0.001328,+0.86%,1.463B,35.218M,35.218M,35.218M,9.392B
+SEI-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png,Sei USD,0.600037,-0.024214,-3.88%,1.455B,176.473M,176.473M,176.473M,2.425B
+RETH-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/15060.png,Rocket Pool ETH USD,"2,555.17",+13.91,+0.55%,1.435B,7.223M,7.223M,7.223M,"561,673"
+BSV-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png,Bitcoin SV USD,72.01,-0.09,-0.12%,1.413B,70.67M,70.67M,70.67M,19.627M
+EGLD-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png,MultiversX USD,53.09,-0.22,-0.41%,1.409B,22.333M,22.333M,22.333M,26.54M
+HEX-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/5015.png,HEX USD,0.007773,-0.000211,-2.64%,1.348B,"825,491","825,491","825,491",173.411B
+ALGO-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png,Algorand USD,0.159588,-0.000229,-0.14%,1.284B,22.274M,22.274M,22.274M,8.046B
+QNT-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png,Quant USD,102.65,+0.56,+0.55%,1.239B,13.105M,13.105M,13.105M,12.073M
+AAVE-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png,Aave USD,83.86,-0.60,-0.72%,1.235B,92.509M,92.509M,92.509M,14.73M
+MINA-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png,Mina USD,1.1485,-0.0507,-4.23%,1.203B,38.847M,38.847M,38.847M,1.048B
+ORDI-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/25028.png,ORDI USD,54.64,+1.27,+2.38%,1.147B,97.811M,97.811M,97.811M,21M
+HNT-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png,Helium USD,7.0825,-0.0954,-1.33%,1.139B,11.92M,11.92M,11.92M,160.875M
+FLOW-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png,Flow USD,0.736006,+0.011994,+1.66%,1.094B,29.456M,29.456M,29.456M,1.486B
+ASTR-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png,Astar USD,0.180109,-0.001801,-0.99%,1.001B,16.255M,16.255M,16.255M,5.56B
+FTM-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png,Fantom USD,0.357057,-0.001002,-0.28%,1.001B,36.183M,36.183M,36.183M,2.804B
+SNX-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png,Synthetix USD,3.2017,+0.1384,+4.52%,975.113M,25.417M,25.417M,25.417M,304.559M
+SAND-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png,The Sandbox USD,0.431685,+0.000912,+0.21%,965.995M,60.105M,60.105M,60.105M,2.238B
+KCS-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png,KuCoin Token USD,9.9246,+0.2012,+2.07%,957.691M,1.318M,1.318M,1.318M,96.497M
+XTZ-USD,https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png,Tezos USD,0.985703,+0.009575,+0.98%,956.021M,19.184M,19.184M,19.184M,969.887M
